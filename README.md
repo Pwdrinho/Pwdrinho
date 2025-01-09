@@ -1,6 +1,6 @@
 # Opa! Me chamo Pedro Lucas Barbosa
 
-No momento graduando de **Engenharia de Software** na **Universidade de Brasília - UnB/FCTE**. Meu foco de estudo é **full-stack**, onde estou continuamente aprendendo e aplicando tecnologias como **HTML**, **C**, **Python** **CSS** e **JavaScript**.
+No momento graduando de **Engenharia de Software** na **Universidade de Brasília - UnB/FCTE**. Meu foco de estudo é **full-stack**, onde estou continuamente aprendendo e aplicando tecnologias como **HTML**, **C**, **Python**, **CSS** e **JavaScript**.
 
 ### 📓 Formação Acadêmica:
 - **Curso (em andamento)**: Engenharia de Software
