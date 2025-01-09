@@ -14,3 +14,19 @@ No momento graduando de **Engenharia de Software** na **Universidade de Brasíli
 ### 🔭 Em Desenvolvimento:
 - **Foco**: Aprimoramento em **Front-end**
 - **Tecnologias em Estudo**: Python, Java, HTML, CSS e JavaScript
+
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=pwdrinho&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="top"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdrinho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
