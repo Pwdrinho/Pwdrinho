@@ -7,13 +7,13 @@ No momento graduando de **Engenharia de Software** na **Universidade de Brasíli
 - **Universidade**: Universidadede Brasília (UnB)
 
 ### 🔧 Minhas Habilidades:
-- **Linguagens de Programação**: **HTML**, **CSS**, **Python** e **JavaScript**
+- **Linguagens de Programação**: **HTML**, **CSS**, **Python**, **Tailwind** e **JavaScript**
 - **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
 - **Interesses**: Front-end, interfaces interativas, desenvolvimento web, banco de dados
 
 ### 🔭 Em Desenvolvimento:
 - **Foco**: Aprimoramento em **Front-end**
-- **Tecnologias em Estudo**: Python, Java, HTML, CSS e JavaScript
+- **Tecnologias em Estudo**: Python, Java, HTML, CSS, Tailwind e JavaScript
 
   <tr>
     <td>
