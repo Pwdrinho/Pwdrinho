@@ -1,32 +1,61 @@
-# Opa! Me chamo Pedro Lucas Barbosa
+# Pedro L. Barbosa
 
-No momento graduando de **Engenharia de Software** na **Universidade de Brasília - UnB/FCTE**. Meu foco de estudo é **full-stack**, onde estou continuamente aprendendo e aplicando tecnologias como **HTML**, **C**, **Python**, **CSS** e **JavaScript**.
+### 🦇: Sobre mim
 
-### 📓 Formação Acadêmica:
-- **Curso (em andamento)**: Engenharia de Software
-- **Universidade**: Universidadede Brasília (UnB)
+Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCTE**. Busco me especializar nas áreas **Desenvolvimento de Software**, **UX/UI** e **Sistemas Embarcados**.
 
-### 🔧 Minhas Habilidades:
-- **Linguagens de Programação**: **HTML**, **CSS**, **Python**, **Tailwind** e **JavaScript**
-- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
-- **Interesses**: Front-end, interfaces interativas, desenvolvimento web, banco de dados
+### 🔧 Minhas Tecnologias e Ferramentas:
 
-### 🔭 Em Desenvolvimento:
-- **Foco**: Aprimoramento em **Front-end**
-- **Tecnologias em Estudo**: Python, Java, HTML, CSS, Tailwind e JavaScript
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=pwdrinho&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="top"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdrinho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
+
+---
+
+### GitHub Stats
+<a href="https://github.com/Pwdrinho/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs" />
+</a>
+<a href="https://github.com/PWdrinho/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Pwdrinho/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
+### :speech_balloon: Entre em contato comigo
+
+  <a href="https://www.instagram.com/_pwdrinho" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:21pedrolucas21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pwdrinho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Pwdrinho" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
