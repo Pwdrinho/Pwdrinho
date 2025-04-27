@@ -27,10 +27,10 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
 
 ### GitHub Stats
 <a href="https://github.com/Pwdrinho/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs" />
 </a>
 <a href="https://github.com/PWdrinho/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
