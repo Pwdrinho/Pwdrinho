@@ -47,15 +47,10 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
 ---
 ### :speech_balloon: Entre em contato comigo
 
-  <a href="https://www.instagram.com/_pwdrinho" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:21pedrolucas21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/pwdrinho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Pwdrinho" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<div>
+  <a href="https://www.instagram.com/_pwdrinho" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="mailto:21pedrolucas21@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
+  <a href="https://linkedin.com/in/pwdrinho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://github.com/Pwdrinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
+
+</div>
