@@ -26,10 +26,10 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
 ---
 
 ### GitHub Stats
-<!--<a href="https://github.com/Pwdrinho/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pwdrinho&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs" />
+<a href="https://github.com/Pwdrinho/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=pwdrinho&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=&hide=contribs" />
 </a>
--->
+
 <a href="https://github.com/PWdrinho/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pwdrinho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -49,9 +49,9 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
 ### :speech_balloon: Entre em contato comigo
 
 <div>
+  <a href="https://youtu.be/J1DHOQNhU6c?si=pBDHR7ZHqeuE2W07" target="_blank"><img src="https://i.pinimg.com/736x/e5/c2/0d/e5c20d734ecfc15eac6a0a4b47631ccb.jpg" height=28px border-radius=20px></a>
   <a href="https://www.instagram.com/_pwdrinho" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="mailto:21pedrolucas21@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
   <a href="https://linkedin.com/in/pwdrinho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
   <a href="https://github.com/Pwdrinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
-
 </div>
