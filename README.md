@@ -55,3 +55,9 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
   <a href="https://linkedin.com/in/pwdrinho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
   <a href="https://github.com/Pwdrinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Pwdrinho/Pwdrinho/output/snake.svg" alt="Snake animation" />
+
+###
