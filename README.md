@@ -36,13 +36,10 @@ Graduando de **Engenharia de Software** na **Universidade de Brasília - UNB/FCT
 
 ---
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contador de Visitantes</b></h3>
 </div>
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Pwdrinho/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+    <img src="https://profile-counter.deno.dev/:Pwdrinho:/count.svg" alt="Key:: Número de visitantes no perfil" />
 </p>
 
 ---
